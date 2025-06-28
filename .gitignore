@@ -7,3 +7,7 @@ downstream_phase/__pycache__
 datasets/__pycache__
 datasets/phase/__pycache__
 datasets/transforms/__pycache__
+/data/
+/checkpoints/
+/logs/
+/outputs/
